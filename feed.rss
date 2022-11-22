@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IDE</title>
+        <description>news about IDEs</description>
+        <link>https://github.com/a22gabrielmv/rss</link>
+        <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+        <managingEditor>a22gabrielmv@iessanclemente.net</managingEditor>
+        <item>
+            <title>Plantas</title>
+            <link>https://github.com/a22gabrielmv/rss/blob/master/netbeans.html</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>cosas netbeans</description>
+        </item>
+    </channel>
+</rss>
